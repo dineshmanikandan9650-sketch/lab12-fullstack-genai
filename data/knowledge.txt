@@ -1,0 +1,5 @@
+Python is a programming language.
+
+FastAPI is a modern framework for building APIs.
+
+Gemini is Google's AI model.
